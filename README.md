@@ -1,5 +1,5 @@
-# JEI-shortest-path-gnn
-A repository of the code used for submission to the Journal of Emerging Investigators for an article investigating the effect various changes to training data has on a message-passing and edge-feature-convolution GNN.
+# shortest-path-gnn-experiment
+A repository of the code used for an article investigating the effect various changes to training data has on a message-passing and edge-feature-convolution GNN.
 
 For each results notebook, every cell must be run in the order included.
 The installations will cause dependency errors, requiring a restart to the runtime; this does not break functionality.
